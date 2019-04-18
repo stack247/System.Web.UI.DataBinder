@@ -4,3 +4,10 @@ System.Web.UI.DataBinder independent package. This doesn't support `IDataItemCon
 
 Supported platforms:
 - .Net Standard 1.1+.
+
+## NuGet Package Url
+- http://
+
+## Packaging
+
+- Run `nuget-pack.bat`.
