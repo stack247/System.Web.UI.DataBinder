@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package>
+  <metadata>
+    <id>System.Web.UI.DataBinder</id>
+    <version>1.0.0</version>
+    <authors>stack247</authors>
+    <owners>stack247</owners>
+    <licenseUrl>https://github.com/stack247/System.Web.UI.DataBinder/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/stack247/System.Web.UI.DataBinder</projectUrl>
+    <iconUrl>https://github.com/</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>System.Web.UI.DataBinder for .Net standard. This doesn't support IDataItemContainer</description>
+    <releaseNotes>Initial 1.0.0 release</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>databinder</tags>
+  </metadata>
+  <files>
+    <file src="System.Web.UI.DataBinder\bin\Release\netstandard2.0\System.Web.UI.DataBinder.dll" target="lib\netstandard1.1" /> 
+  </files>
+</package>
