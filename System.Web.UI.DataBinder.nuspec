@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <package>
   <metadata>
-    <id>System.Web.UI.DataBinder</id>
+    <id>Stack247.System.Web.UI.DataBinder</id>
     <version>1.0.0</version>
     <authors>stack247</authors>
     <owners>stack247</owners>
-    <licenseUrl>https://github.com/stack247/System.Web.UI.DataBinder/blob/master/LICENSE</licenseUrl>
+	<license type="expression">MIT</license>
     <projectUrl>https://github.com/stack247/System.Web.UI.DataBinder</projectUrl>
     <iconUrl>https://raw.githubusercontent.com/stack247/System.Web.UI.DataBinder/master/favicon.ico</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
@@ -15,6 +15,6 @@
     <tags>databinder</tags>
   </metadata>
   <files>
-    <file src="System.Web.UI.DataBinder\bin\Release\netstandard2.0\System.Web.UI.DataBinder.dll" target="lib\netstandard1.1" /> 
+    <file src="System.Web.UI.DataBinder\bin\Release\netstandard2.0\System.Web.UI.DataBinder.dll" target="lib\netstandard1.1" />
   </files>
 </package>
