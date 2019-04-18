@@ -7,7 +7,7 @@
     <owners>stack247</owners>
     <licenseUrl>https://github.com/stack247/System.Web.UI.DataBinder/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/stack247/System.Web.UI.DataBinder</projectUrl>
-    <iconUrl>https://github.com/</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/stack247/System.Web.UI.DataBinder/master/favicon.ico</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>System.Web.UI.DataBinder for .Net standard. This doesn't support IDataItemContainer</description>
     <releaseNotes>Initial 1.0.0 release</releaseNotes>
