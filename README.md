@@ -6,7 +6,7 @@ Supported platforms:
 - .Net Standard 1.1+.
 
 ## NuGet Package Url
-- http://
+- https://www.nuget.org/packages/Stack247.System.Web.UI.DataBinder
 
 ## Packaging
 
